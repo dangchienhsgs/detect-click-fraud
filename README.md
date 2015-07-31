@@ -2,16 +2,19 @@
 
 ### Lý thuyết
   1. Cách tạo fraud clicks
+  
   - Sử dụng  botnets (Do malware chạy nền trong máy tính và tự động click vào quảng cáo)
   - Chèn quảng cáo ẩn dưới dạng khác để lừa người dùng click
   - Trả tiền cho nhân công để click
 
   2. Cách tiếp cận
+  
 Để có thể đối phó với nhiều loại lừa đảo, ta phải xác định được các thuộc tính của publisher dựa vào thống kê các chỉ số trung bình, độ lệch chuẩn, số lượng từ các lượt xem khác nhau và các thời gian khác nhau của publisher. Với các thuộc tính trên sẽ xác định được các thuộc tính tách bạch nhất để xây dựng bộ phân loại hiệu quả. Ta tách thuộc tính publisher theo các cách sau:
 
 ### Phương pháp tách thuộc tính của publisher
 
   1. Thống kê IP
+  2. 
     Đơn giản nhất click lừa đảo có thể đến thử các quảng cáo trên cùng địa chỉ IP. Để chắc chắn hơn thì ta nên thống kê theo IP của subnetwork (IP của subnetwork thu được bằng cách làm tròn giá trị IP/1000). Ta thống kê ra các chỉ số của 1 IP như sau:
 
     - ***avg_ip_sec***: Trung bình số lượt truy cập trong 1s
