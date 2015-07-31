@@ -12,7 +12,7 @@
   
   2. Cách tiếp cận
   
-Để có thể đối phó với nhiều loại lừa đảo, ta phải xác định được các thuộc tính của publisher dựa vào thống kê các chỉ số trung bình, độ lệch chuẩn, số lượng từ các lượt xem khác nhau và các thời gian khác nhau của publisher. Với các thuộc tính trên sẽ xác định được các thuộc tính tách bạch nhất để xây dựng bộ phân loại hiệu quả. Ta tách thuộc tính publisher theo các cách sau:
+  Để có thể đối phó với nhiều loại lừa đảo, ta phải xác định được các thuộc tính của publisher dựa vào thống kê các chỉ số trung bình, độ lệch chuẩn, số lượng từ các lượt xem khác nhau và các thời gian khác nhau của publisher. Với các thuộc tính trên sẽ xác định được các thuộc tính tách bạch nhất để xây dựng bộ phân loại hiệu quả. Ta tách thuộc tính publisher theo các cách sau.
 
 ### Phương pháp tách thuộc tính của publisher
 
@@ -55,6 +55,7 @@
 ### Các thuật toán có thể sử dụng trong mô hình
 
   Với thuật toán phân loại hỗ trợ validation có rất nhiều. Với bộ data trên, ta có kết quả tham khảo của các thuật toán sau:
+
 
   | Thuật toán          |  KQ   |
   | ------------------- |:-----:|
