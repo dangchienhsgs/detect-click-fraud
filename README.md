@@ -9,7 +9,7 @@
   - Chèn quảng cáo ẩn dưới dạng khác để lừa người dùng click
   
   - Trả tiền cho nhân công để click
-
+  
   2. Cách tiếp cận
   
 Để có thể đối phó với nhiều loại lừa đảo, ta phải xác định được các thuộc tính của publisher dựa vào thống kê các chỉ số trung bình, độ lệch chuẩn, số lượng từ các lượt xem khác nhau và các thời gian khác nhau của publisher. Với các thuộc tính trên sẽ xác định được các thuộc tính tách bạch nhất để xây dựng bộ phân loại hiệu quả. Ta tách thuộc tính publisher theo các cách sau:
