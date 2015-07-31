@@ -1,6 +1,7 @@
 ## Xác định fraud click bằng mô hình lai
 
 ### Lý thuyết
+
   1. Cách tạo fraud clicks
   
   - Sử dụng  botnets (Do malware chạy nền trong máy tính và tự động click vào quảng cáo)
