@@ -54,20 +54,18 @@
 
 ### Các thuật toán có thể sử dụng trong mô hình
 
-
+  Với thuật toán phân loại hỗ trợ validation có rất nhiều. Với bộ data trên, ta có kết quả tham khảo của các thuật toán sau:
 
 | Thuật toán          |  KQ   |
 | ------------------- |-------|
 | FT Tree             | 36.3% |
-
-
-  | RandomForest        | 47.7% |
-  | REPTree             | 35.8% |
-  | LADTree             | 37%   |
-  | NBTree              | 37.9% |
-  | RandomsubSpace      | 38.9% |
-  | RotationForest      | 42.9% |
-  | BayesNet            | 33.7% |
-  | TreeEnsemble        | 49.3% |
-  | RPROP               | 48.3% |
-  | Blending            | 52.3% |
+| RandomForest        | 47.7% |
+| REPTree             | 35.8% |
+| LADTree             | 37%   |
+| NBTree              | 37.9% |
+| RandomsubSpace      | 38.9% |
+| RotationForest      | 42.9% |
+| BayesNet            | 33.7% |
+| TreeEnsemble        | 49.3% |
+| RPROP               | 48.3% |
+| Blending            | 52.3% |
