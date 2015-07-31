@@ -55,9 +55,10 @@
 ### Các thuật toán có thể sử dụng trong mô hình
 
   Với thuật toán phân loại hỗ trợ validation có rất nhiều. Với bộ data trên, ta có kết quả tham khảo của các thuật toán sau:
-___________________________________
+
+
   | Thuật toán          |  KQ   |
-  | ------------------- |:-----:|
+  | ------------------- |-------|
   | FT Tree             | 36.3% |
   | RandomForest        | 47.7% |
   | REPTree             | 35.8% |
